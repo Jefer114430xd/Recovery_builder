@@ -8,7 +8,7 @@ export BRANCH="twrp-9.0" # the branch of manifest
 # about your device
 export DEVICE="a02ub" # codename used in device tree
 export DT_LINK="https://github.com/twrpdtgen/android_device_samsung_a02" # device tree link
-export DT_BRANCH="twrp" # device tree branch
+export DT_BRANCH="a02xx-user-11-RP1A.200720.012-A022FXXU3BWB5-release-keys" # device tree branch
 export VENDOR="samsung" # device manufacturer or vendor
 export TARGET="recoveryimage" # build method: recoveryimage, bootimage, vendorboot
 export TYPE="omni" # recovery type: omni, twrp, something else
